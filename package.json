@@ -1,0 +1,15 @@
+{
+  "name": "vcdgen",
+  "version": "1.0.0",
+  "description": "Convert timings into a .vcd file.",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "vcdgen": "index.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
